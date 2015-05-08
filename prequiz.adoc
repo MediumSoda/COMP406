@@ -22,69 +22,70 @@ git push -u --all origin
 == Questions
 
 What is free software?
-
+Software that's freely available
 
 
 What is open source software?
-
+Software that's freely available and has its source code available
 
 
 What's the difference?
-
+Open source software allows people to download its source code
 
 
 What does copyleft mean?
-
+If an open source program that is copylefted is redistributed, it must also be free
 
 
 What does permissive mean?
-
+You own what you buy
 
 
 What is a license? What's the difference among them?
-
+You don't own what you buy, you only rent/borrow it
 
 
 When did open source software start?
-
+A long time ago in a galaxy far far away
 
 
 What were some major accomplishments in free / open source software?
-
+Linux. 
 
 
 Who were the key players in free / open source software?
-
+Linus Torvalds	
 
 
 How has free / open source software development changed over the decades?
-
+More programs are being released for profit
+Our alien overlords use them to implant viruses into our computers
 
 
 Why do folks write open source software?
-
+It allows people to improve on their work
 
 
 Who produces open source software?
-
+Lord Jaraxxus, Erredar Lord of the Burning Legion
 
 
 Who pays for it?
-
+Donators
 
 
 Who profits from it?
-
+The software creator
 
 
 Who is in control of your computer?
-
+Obama
 
 
 What do we give up when we cede control to others? What do we gain?
-
+We lose freedom to do what we want but we know what we have will work
 
 
 Is it okay for others to decide what you can do with your computer? If so, when?
-
+If a program requires pre-requisites
 
